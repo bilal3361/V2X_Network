@@ -1,0 +1,26 @@
+protocol,alert_id,simulation_time,risk_level,vehicle_1,vehicle_2,sent_perf_time,sent_wall_time_utc,sent_wall_time_cest
+kafka,arrival:targeted_vehicle_004|targeted_vehicle_005:41.6:HIGH,41.6,HIGH,targeted_vehicle_004,targeted_vehicle_005,1524.087269666,2026-07-06T13:34:40.500519+00:00,15:34:40.500 CEST
+kafka,arrival:targeted_vehicle_006|targeted_vehicle_007:53.3:LOW,53.3,LOW,targeted_vehicle_006,targeted_vehicle_007,1535.784056833,2026-07-06T13:34:52.196933+00:00,15:34:52.196 CEST
+kafka,arrival:targeted_vehicle_006|targeted_vehicle_007:53.9:HIGH,53.9,HIGH,targeted_vehicle_006,targeted_vehicle_007,1536.389898166,2026-07-06T13:34:52.802755+00:00,15:34:52.802 CEST
+kafka,arrival:targeted_vehicle_006|targeted_vehicle_008:58.3:LOW,58.3,LOW,targeted_vehicle_006,targeted_vehicle_008,1540.794404416,2026-07-06T13:34:57.207120+00:00,15:34:57.207 CEST
+kafka,arrival:targeted_vehicle_010|targeted_vehicle_011:69.0:HIGH,69.0,HIGH,targeted_vehicle_010,targeted_vehicle_011,1551.488549791,2026-07-06T13:35:07.900924+00:00,15:35:07.900 CEST
+kafka,arrival:targeted_vehicle_012|targeted_vehicle_013:81.8:HIGH,81.8,HIGH,targeted_vehicle_012,targeted_vehicle_013,1564.284052,2026-07-06T13:35:20.696018+00:00,15:35:20.696 CEST
+kafka,arrival:targeted_vehicle_015|targeted_vehicle_016:97.6:HIGH,97.6,HIGH,targeted_vehicle_015,targeted_vehicle_016,1580.088271416,2026-07-06T13:35:36.499732+00:00,15:35:36.499 CEST
+kafka,arrival:targeted_vehicle_017|targeted_vehicle_019:111.2:LOW,111.2,LOW,targeted_vehicle_017,targeted_vehicle_019,1593.684799708,2026-07-06T13:35:50.095826+00:00,15:35:50.095 CEST
+kafka,arrival:targeted_vehicle_018|targeted_vehicle_019:111.4:HIGH,111.4,HIGH,targeted_vehicle_018,targeted_vehicle_019,1593.88817975,2026-07-06T13:35:50.299200+00:00,15:35:50.299 CEST
+kafka,arrival:targeted_vehicle_017|targeted_vehicle_018:111.4:LOW,111.4,LOW,targeted_vehicle_017,targeted_vehicle_018,1593.89029325,2026-07-06T13:35:50.301313+00:00,15:35:50.301 CEST
+kafka,arrival:targeted_vehicle_017|targeted_vehicle_019:111.7:HIGH,111.7,HIGH,targeted_vehicle_017,targeted_vehicle_019,1594.196924583,2026-07-06T13:35:50.607935+00:00,15:35:50.607 CEST
+kafka,arrival:targeted_vehicle_021|targeted_vehicle_022:125.7:HIGH,125.7,HIGH,targeted_vehicle_021,targeted_vehicle_022,1608.301217541,2026-07-06T13:36:04.711777+00:00,15:36:04.711 CEST
+kafka,arrival:targeted_vehicle_023|targeted_vehicle_024:139.4:HIGH,139.4,HIGH,targeted_vehicle_023,targeted_vehicle_024,1621.997272416,2026-07-06T13:36:18.407394+00:00,15:36:18.407 CEST
+kafka,arrival:targeted_vehicle_026|targeted_vehicle_027:152.4:HIGH,152.4,HIGH,targeted_vehicle_026,targeted_vehicle_027,1634.907113333,2026-07-06T13:36:31.316823+00:00,15:36:31.316 CEST
+kafka,arrival:targeted_vehicle_028|targeted_vehicle_029:166.5:HIGH,166.5,HIGH,targeted_vehicle_028,targeted_vehicle_029,1648.978158708,2026-07-06T13:36:45.387419+00:00,15:36:45.387 CEST
+kafka,arrival:targeted_vehicle_031|targeted_vehicle_032:181.9:HIGH,181.9,HIGH,targeted_vehicle_031,targeted_vehicle_032,1664.377936166,2026-07-06T13:37:00.786704+00:00,15:37:00.786 CEST
+kafka,arrival:targeted_vehicle_033|targeted_vehicle_034:195.4:HIGH,195.4,HIGH,targeted_vehicle_033,targeted_vehicle_034,1677.883942583,2026-07-06T13:37:14.292279+00:00,15:37:14.292 CEST
+kafka,arrival:targeted_vehicle_035|targeted_vehicle_036:206.8:LOW,206.8,LOW,targeted_vehicle_035,targeted_vehicle_036,1689.309726458,2026-07-06T13:37:25.717698+00:00,15:37:25.717 CEST
+kafka,arrival:targeted_vehicle_035|targeted_vehicle_036:207.5:HIGH,207.5,HIGH,targeted_vehicle_035,targeted_vehicle_036,1689.989804041,2026-07-06T13:37:26.397754+00:00,15:37:26.397 CEST
+kafka,arrival:targeted_vehicle_038|targeted_vehicle_039:215.9:LOW,215.9,LOW,targeted_vehicle_038,targeted_vehicle_039,1698.387348208,2026-07-06T13:37:34.795030+00:00,15:37:34.795 CEST
+kafka,arrival:targeted_vehicle_037|targeted_vehicle_039:216.4:HIGH,216.4,HIGH,targeted_vehicle_037,targeted_vehicle_039,1698.8902185,2026-07-06T13:37:35.297884+00:00,15:37:35.297 CEST
+kafka,arrival:targeted_vehicle_038|targeted_vehicle_039:216.4:HIGH,216.4,HIGH,targeted_vehicle_038,targeted_vehicle_039,1698.891567416,2026-07-06T13:37:35.299234+00:00,15:37:35.299 CEST
+kafka,arrival:targeted_vehicle_037|targeted_vehicle_038:216.4:LOW,216.4,LOW,targeted_vehicle_037,targeted_vehicle_038,1698.893604875,2026-07-06T13:37:35.301272+00:00,15:37:35.301 CEST
+kafka,arrival:targeted_vehicle_041|targeted_vehicle_042:232.0:LOW,232.0,LOW,targeted_vehicle_041,targeted_vehicle_042,1714.60386875,2026-07-06T13:37:51.011032+00:00,15:37:51.011 CEST
+kafka,arrival:targeted_vehicle_041|targeted_vehicle_042:232.3:HIGH,232.3,HIGH,targeted_vehicle_041,targeted_vehicle_042,1714.782326541,2026-07-06T13:37:51.189484+00:00,15:37:51.189 CEST

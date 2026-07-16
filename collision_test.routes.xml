@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="collision_car"
+           vClass="passenger"
+           guiShape="passenger"
+           length="5.00"
+           width="1.80"
+           minGap="0"
+           maxSpeed="13.89"
+           speedFactor="1.0"
+           speedDev="0"
+           accel="6.0"
+           decel="9.0"
+           emergencyDecel="12.0"
+           apparentDecel="12.0"
+           tau="0.1"
+           sigma="0"
+           lcStrategic="0"
+           lcCooperative="0"
+           lcSpeedGain="0"
+           lcKeepRight="0"
+           lcAssertive="10"
+           jmIgnoreFoeProb="1"
+           jmIgnoreJunctionFoeProb="1"
+           jmIgnoreFoeSpeed="100"
+           jmIgnoreKeepClearTime="0"
+           jmStoplineGap="0"
+           collisionMinGapFactor="0"/>
+
+    <vehicle id="targeted_red"
+             type="collision_car"
+             depart="3.0"
+             departLane="1"
+             departPos="0"
+             departSpeed="13.89"
+             color="red">
+        <route edges="179750964#5 858712304#0"/>
+    </vehicle>
+
+    <vehicle id="targeted_blue"
+             type="collision_car"
+             depart="5.2"
+             departLane="0"
+             departPos="0"
+             departSpeed="13.89"
+             color="blue">
+        <route edges="1274037341#1 179750980#0"/>
+    </vehicle>
+</routes>

@@ -1,0 +1,53 @@
+{
+  "created_at_utc": "2026-06-08T13:18:00.404858+00:00",
+  "dataset_path": "data/vehicle_trajectory_dataset.csv",
+  "model_path": "models/best_trajectory_model.keras",
+  "feature_scaler_path": "models/feature_scaler.joblib",
+  "target_scaler_path": "models/target_scaler.joblib",
+  "input_len": 20,
+  "pred_len": 30,
+  "dt_seconds": 0.1,
+  "sequence_stride": 2,
+  "feature_cols": [
+    "x",
+    "y",
+    "speed_mps",
+    "vx_mps",
+    "vy_mps",
+    "acceleration_mps2",
+    "angle_sin",
+    "angle_cos",
+    "lane_position_m",
+    "distance_to_junction_center_m"
+  ],
+  "target_cols": [
+    "x",
+    "y"
+  ],
+  "use_near_junction_only": true,
+  "intersection_id": "cluster_255722000_4115305935",
+  "near_junction_radius_m": 100.0,
+  "intersection_arrival_radius_m": 10.0,
+  "collision_distance_m": 5.0,
+  "high_time_diff_s": 2.0,
+  "low_time_diff_s": 4.0,
+  "high_ttc_s": 2.0,
+  "low_ttc_s": 4.0,
+  "training_rows": 174841,
+  "validation_rows": 21158,
+  "test_rows": 22190,
+  "unique_train_vehicles": 718,
+  "unique_validation_vehicles": 80,
+  "unique_test_vehicles": 89,
+  "model_info": {
+    "input_shape": [
+      null,
+      20,
+      10
+    ],
+    "output_units": 60,
+    "inferred_input_len": 20,
+    "inferred_feature_count": 10,
+    "inferred_pred_len": 30
+  }
+}

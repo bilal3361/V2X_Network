@@ -1,0 +1,26 @@
+protocol,alert_id,simulation_time,risk_level,vehicle_1,vehicle_2,sent_perf_time,sent_wall_time_utc,sent_wall_time_cest
+amqp,arrival:targeted_vehicle_004|targeted_vehicle_005:41.6:HIGH,41.6,HIGH,targeted_vehicle_004,targeted_vehicle_005,1912.771261041,2026-07-06T13:41:09.172094+00:00,15:41:09.172 CEST
+amqp,arrival:targeted_vehicle_006|targeted_vehicle_007:53.3:LOW,53.3,LOW,targeted_vehicle_006,targeted_vehicle_007,1924.529240291,2026-07-06T13:41:20.929697+00:00,15:41:20.929 CEST
+amqp,arrival:targeted_vehicle_006|targeted_vehicle_007:53.9:HIGH,53.9,HIGH,targeted_vehicle_006,targeted_vehicle_007,1925.076462666,2026-07-06T13:41:21.476902+00:00,15:41:21.476 CEST
+amqp,arrival:targeted_vehicle_006|targeted_vehicle_008:58.3:LOW,58.3,LOW,targeted_vehicle_006,targeted_vehicle_008,1929.479286833,2026-07-06T13:41:25.879586+00:00,15:41:25.879 CEST
+amqp,arrival:targeted_vehicle_010|targeted_vehicle_011:69.0:HIGH,69.0,HIGH,targeted_vehicle_010,targeted_vehicle_011,1940.298610333,2026-07-06T13:41:36.698564+00:00,15:41:36.698 CEST
+amqp,arrival:targeted_vehicle_012|targeted_vehicle_013:81.8:HIGH,81.8,HIGH,targeted_vehicle_012,targeted_vehicle_013,1952.976272625,2026-07-06T13:41:49.375821+00:00,15:41:49.375 CEST
+amqp,arrival:targeted_vehicle_015|targeted_vehicle_016:97.6:HIGH,97.6,HIGH,targeted_vehicle_015,targeted_vehicle_016,1968.778198,2026-07-06T13:42:05.177242+00:00,15:42:05.177 CEST
+amqp,arrival:targeted_vehicle_017|targeted_vehicle_019:111.2:LOW,111.2,LOW,targeted_vehicle_017,targeted_vehicle_019,1982.377758916,2026-07-06T13:42:18.776368+00:00,15:42:18.776 CEST
+amqp,arrival:targeted_vehicle_018|targeted_vehicle_019:111.4:HIGH,111.4,HIGH,targeted_vehicle_018,targeted_vehicle_019,1982.577263666,2026-07-06T13:42:18.975866+00:00,15:42:18.975 CEST
+amqp,arrival:targeted_vehicle_017|targeted_vehicle_018:111.4:LOW,111.4,LOW,targeted_vehicle_017,targeted_vehicle_018,1982.577435875,2026-07-06T13:42:18.976039+00:00,15:42:18.976 CEST
+amqp,arrival:targeted_vehicle_017|targeted_vehicle_019:111.7:HIGH,111.7,HIGH,targeted_vehicle_017,targeted_vehicle_019,1982.876383958,2026-07-06T13:42:19.274977+00:00,15:42:19.274 CEST
+amqp,arrival:targeted_vehicle_021|targeted_vehicle_022:125.7:HIGH,125.7,HIGH,targeted_vehicle_021,targeted_vehicle_022,1996.995312916,2026-07-06T13:42:33.393455+00:00,15:42:33.393 CEST
+amqp,arrival:targeted_vehicle_023|targeted_vehicle_024:139.4:HIGH,139.4,HIGH,targeted_vehicle_023,targeted_vehicle_024,2010.577691375,2026-07-06T13:42:46.975400+00:00,15:42:46.975 CEST
+amqp,arrival:targeted_vehicle_026|targeted_vehicle_027:152.4:HIGH,152.4,HIGH,targeted_vehicle_026,targeted_vehicle_027,2023.569994833,2026-07-06T13:42:59.967288+00:00,15:42:59.967 CEST
+amqp,arrival:targeted_vehicle_028|targeted_vehicle_029:166.5:HIGH,166.5,HIGH,targeted_vehicle_028,targeted_vehicle_029,2037.675273041,2026-07-06T13:43:14.072116+00:00,15:43:14.072 CEST
+amqp,arrival:targeted_vehicle_031|targeted_vehicle_032:181.9:HIGH,181.9,HIGH,targeted_vehicle_031,targeted_vehicle_032,2053.071863958,2026-07-06T13:43:29.468215+00:00,15:43:29.468 CEST
+amqp,arrival:targeted_vehicle_033|targeted_vehicle_034:195.4:HIGH,195.4,HIGH,targeted_vehicle_033,targeted_vehicle_034,2066.575591333,2026-07-06T13:43:42.971511+00:00,15:43:42.971 CEST
+amqp,arrival:targeted_vehicle_035|targeted_vehicle_036:206.8:LOW,206.8,LOW,targeted_vehicle_035,targeted_vehicle_036,2077.974226791,2026-07-06T13:43:54.369782+00:00,15:43:54.369 CEST
+amqp,arrival:targeted_vehicle_035|targeted_vehicle_036:207.5:HIGH,207.5,HIGH,targeted_vehicle_035,targeted_vehicle_036,2078.671773916,2026-07-06T13:43:55.067307+00:00,15:43:55.067 CEST
+amqp,arrival:targeted_vehicle_038|targeted_vehicle_039:215.9:LOW,215.9,LOW,targeted_vehicle_038,targeted_vehicle_039,2087.134085583,2026-07-06T13:44:03.529348+00:00,15:44:03.529 CEST
+amqp,arrival:targeted_vehicle_037|targeted_vehicle_039:216.4:HIGH,216.4,HIGH,targeted_vehicle_037,targeted_vehicle_039,2087.57742975,2026-07-06T13:44:03.972678+00:00,15:44:03.972 CEST
+amqp,arrival:targeted_vehicle_038|targeted_vehicle_039:216.4:HIGH,216.4,HIGH,targeted_vehicle_038,targeted_vehicle_039,2087.577552,2026-07-06T13:44:03.972800+00:00,15:44:03.972 CEST
+amqp,arrival:targeted_vehicle_037|targeted_vehicle_038:216.4:LOW,216.4,LOW,targeted_vehicle_037,targeted_vehicle_038,2087.577640083,2026-07-06T13:44:03.972889+00:00,15:44:03.972 CEST
+amqp,arrival:targeted_vehicle_041|targeted_vehicle_042:232.0:LOW,232.0,LOW,targeted_vehicle_041,targeted_vehicle_042,2103.176529458,2026-07-06T13:44:19.571280+00:00,15:44:19.571 CEST
+amqp,arrival:targeted_vehicle_041|targeted_vehicle_042:232.3:HIGH,232.3,HIGH,targeted_vehicle_041,targeted_vehicle_042,2103.476152875,2026-07-06T13:44:19.870893+00:00,15:44:19.870 CEST

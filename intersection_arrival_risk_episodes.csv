@@ -1,0 +1,14 @@
+vehicle_1,vehicle_2,episode_start_time,episode_end_time,episode_length_windows,max_risk_level,min_arrival_time_difference_s,min_real_arrival_time_difference_s,min_vehicle_1_distance_to_intersection_m,min_vehicle_2_distance_to_intersection_m,episode_duration_s
+targeted_43,targeted_45,247.0,247.0,1,LOW,2.4,1.9,7.5035,8.6354,0.2
+targeted_61,targeted_64,330.2,332.4,12,HIGH,0.0,0.0,6.8827,2.9109,2.399999999999989
+targeted_95,targeted_98,496.4,497.0,4,LOW,2.1,,9.6192,4.0437,0.8000000000000227
+targeted_95,targeted_98,512.2,515.2,16,HIGH,0.0,0.0,7.6359,3.1903,3.2
+targeted_247,targeted_248,1246.2,1246.8,4,HIGH,2.0,,7.6359,3.7953,0.799999999999909
+282,287,2178.3,2179.9,9,HIGH,0.7,0.7,4.7993,3.2491,1.799999999999909
+targeted_507,targeted_509,2555.2,2555.6,3,HIGH,0.9,,3.1231,5.8355,0.6000000000000909
+targeted_507,targeted_509,2558.6,2560.6,11,HIGH,0.0,0.0,3.9034,0.2212,2.2
+targeted_560,targeted_564,2824.4,2825.0,4,HIGH,1.5,1.6,7.4362,2.0343,0.799999999999909
+targeted_564,targeted_565,2842.2,2845.4,17,HIGH,0.0,0.0,0.3337,6.5759,3.400000000000273
+targeted_564,targeted_570,2854.2,2856.0,10,HIGH,0.8,0.9,1.7789,2.6338,2.000000000000182
+381,targeted_570,2881.2,2883.4,12,HIGH,0.0,0.0,6.8294,4.035,2.400000000000273
+402,targeted_610,3061.4,3062.0,4,HIGH,0.0,0.0,0.24,6.6933,0.799999999999909
